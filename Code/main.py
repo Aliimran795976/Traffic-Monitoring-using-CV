@@ -4,7 +4,6 @@ import cv2
 from PIL import Image, ImageTk
 from ultralytics import YOLO
 import os
-import json
 import matplotlib.pyplot as plt
 import numpy as np
 
