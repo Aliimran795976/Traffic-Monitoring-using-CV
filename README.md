@@ -11,13 +11,6 @@ Traffic Monitoring using CV
 │ ├── main.py
 │ ├── config.json
 │ └── yolov8n.pt
-|
-├── Compiled → Standalone app build with YOLO model
-│ └── app.exe (or .app/.bin depending on OS)
-├
-|── Data 
-│ ├── Input → Raw video files for processing
-│ └── Output → Processed videos with detection overlays
 ├
 |── README.md
 └── requirements.txt
