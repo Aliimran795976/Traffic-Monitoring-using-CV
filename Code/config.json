@@ -1,0 +1,5 @@
+{
+    "vehicle_types": ["car", "truck", "bus", "motorcycle"],
+    "high_density_threshold": 50,
+    "medium_density_threshold": 25
+}
